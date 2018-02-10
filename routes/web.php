@@ -25,4 +25,5 @@ Route::resource('page','PageController');
 Route::resource('kala','KalaController');
 
 Route::resource('sherkat','SherkatController');
+Route::resource('sherkat','SherkatController');
 
